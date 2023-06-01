@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package bank;
 
 import java.awt.Desktop;
@@ -11,10 +7,7 @@ import static java.awt.SystemColor.desktop;
 import javax.swing.JDesktopPane;
 import javax.swing.JFrame;
 import javax.swing.JInternalFrame;
-/**
- *
- * @author kobinath
- */
+
 public class mainmenu extends javax.swing.JFrame {
 
     private PopupMenu internalFrame;
