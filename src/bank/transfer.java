@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package bank;
 
 import java.awt.event.KeyEvent;
@@ -16,10 +12,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author kobinath
- */
+
 public class transfer extends javax.swing.JInternalFrame {
 
     /**
